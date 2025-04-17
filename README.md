@@ -83,10 +83,10 @@ endmodule
 
 
 *RTL Schematic*
-Half Adder
+##Half Adder
 ![Screenshot 2025-04-17 110948](https://github.com/user-attachments/assets/8847e6af-3565-4e28-b0a0-62303248658e)
 
-Half Subtractor
+##Half Subtractor
 ![Screenshot 2025-04-17 113624](https://github.com/user-attachments/assets/0e929cf3-0d69-49ad-90cf-c1f5e08d51d9)
 
 
