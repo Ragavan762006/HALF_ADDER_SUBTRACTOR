@@ -66,7 +66,6 @@ assign difference= (a ^ b);
 assign borrow= ( ~a & b);
 endmodule
 
-Developed by: Mohamed Mustafa Hussain RegisterNumber: 212224240091*/
 
 **RTL Schematic**
 **Half Adder**:
